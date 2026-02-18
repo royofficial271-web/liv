@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Liv AI",
+  "description": "A world-class conversational AI with live real-time voice and video capabilities, inspired by ChatGPT.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
